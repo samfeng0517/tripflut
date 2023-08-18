@@ -1,4 +1,4 @@
-package com.stormx.tripflut.tripflut
+package com.stormx.tripflut
 
 import io.flutter.embedding.android.FlutterActivity
 
